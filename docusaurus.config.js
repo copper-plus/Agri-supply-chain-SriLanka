@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Agri Supply Chain Sri Lanka',
   tagline: 'Deep analysis on Sri Lankan agri supply chain',
-  url: 'https://Agri-supply-chain-SriLanka.copper-plus.github.io',
+  url: 'https://copper-plus.github.io/Agri-supply-chain-SriLanka/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
