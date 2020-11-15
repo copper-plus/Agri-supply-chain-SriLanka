@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{72:function(a){a.exports=JSON.parse('{"allTagsPath":"/Agri-supply-chain-SriLanka/blog/tags","slug":"covid-19","name":"covid19","count":1,"permalink":"/Agri-supply-chain-SriLanka/blog/tags/covid-19"}')}}]);

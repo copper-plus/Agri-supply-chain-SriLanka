@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{75:function(p){p.exports=JSON.parse('{"allTagsPath":"/Agri-supply-chain-SriLanka/blog/tags","slug":"copper-plus","name":"copper-plus","count":2,"permalink":"/Agri-supply-chain-SriLanka/blog/tags/copper-plus"}')}}]);

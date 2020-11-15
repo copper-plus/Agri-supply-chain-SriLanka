@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{65:function(i){i.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"COVID19 on Agri supply chains in Sri Lanka","permalink":"/Agri-supply-chain-SriLanka/blog/covid19impact"},{"title":"Welcome","permalink":"/Agri-supply-chain-SriLanka/blog/welcome"}]}')}}]);
