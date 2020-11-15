@@ -2,11 +2,11 @@ module.exports = {
   title: 'Agri Supply Chain Sri Lanka',
   tagline: 'Deep analysis on Sri Lankan agri supply chain',
   url: 'https://copper-plus.github.io/Agri-supply-chain-SriLanka/',
-  baseUrl: '/',
+  baseUrl: '/Agri-supply-chain-SriLanka/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'copper-plus', // Usually your GitHub org/user name.
-  projectName: 'agri-supply-chain-srilanka', // Usually your repo name.
+  projectName: 'Agri-supply-chain-SriLanka', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '| Agri Supply Chain Sri Lanka',

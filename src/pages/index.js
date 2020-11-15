@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Agriculture into Next level',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/agri.jpg',
     description: (
       <>
         The art and science of cultivating the soil, 
@@ -21,7 +21,7 @@ const features = [
   },
   {
     title: 'Supply chain analysis',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/supply-chain.png',
     description: (
       <>
         Data driven suply chain analysis can make a significant impact to bring 
