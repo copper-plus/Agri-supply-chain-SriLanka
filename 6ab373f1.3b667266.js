@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{71:function(a){a.exports=JSON.parse('{"allTagsPath":"/Agri-supply-chain-SriLanka/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/Agri-supply-chain-SriLanka/blog/tags/docusaurus"}')}}]);

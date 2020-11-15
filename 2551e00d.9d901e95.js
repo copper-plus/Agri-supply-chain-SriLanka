@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{65:function(l){l.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/Agri-supply-chain-SriLanka/blog/welcome"},{"title":"Hello","permalink":"/Agri-supply-chain-SriLanka/blog/hello-world"},{"title":"Hola","permalink":"/Agri-supply-chain-SriLanka/blog/hola"}]}')}}]);
