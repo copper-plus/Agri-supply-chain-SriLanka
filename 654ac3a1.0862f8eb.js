@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{69:function(a){a.exports=JSON.parse('{"allTagsPath":"/Agri-supply-chain-SriLanka/blog/tags","slug":"agiculture","name":"agiculture","count":2,"permalink":"/Agri-supply-chain-SriLanka/blog/tags/agiculture"}')}}]);

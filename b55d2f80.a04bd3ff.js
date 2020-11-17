@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{79:function(a){a.exports=JSON.parse('{"allTagsPath":"/Agri-supply-chain-SriLanka/blog/tags","slug":"legator","name":"legator","count":2,"permalink":"/Agri-supply-chain-SriLanka/blog/tags/legator"}')}}]);
